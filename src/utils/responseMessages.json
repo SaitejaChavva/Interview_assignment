@@ -1,0 +1,14 @@
+{
+    "CONTACT_CREATED": "Contact created successfully",
+    "CONTACT_DETAILS": "Contact details are",
+    "CONTACT_UPDATED": "Contact updated successfully",
+    "CONTACT_DELETED": "Contact deleted successfully",
+    "CONTACT_LIST": "Contact list is",
+    "CONTACT_ALREADY_EXISTS": "Contact already exists",
+    "CONTACT_NOT_EXISTS": "Contact does not exists",
+    "%s REQUIRED": " is required",
+
+    "TOKEN_WITH_API": "Please send token with Api",
+    "LOGIN_SUCCESS": "Login successful",
+    "USER_CREATED_AND_LOGGED_IN": "User is registered and logged in successfully"
+}

@@ -1,0 +1,1 @@
+export const ContactEnum = ['personnel', 'business'] 
